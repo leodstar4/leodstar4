@@ -3,7 +3,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle">
-      <img src="assets/dstar.png" width="90" height="90" alt="dstar logo"/>
+      <img src="dstar.png" width="150" height="150" alt="dstar logo"/>
     </td>
     <td valign="middle" style="padding-left: 16px;">
       <h1>Hola, soy Leonardo Rulfo Soto / dstar ⭐ </h1>
