@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">dstar — Leonardo Rulfo Soto</title>
+<desc id="desc">Tecnología, emprendimiento y diseño. Estrella orbital animada en violeta y verde lima.</desc>
+<defs>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#242536" stroke-width="1"/></pattern>
+<radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<linearGradient id="line"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#bef264"/></linearGradient>
+</defs>
+<rect width="1200" height="420" rx="24" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="418" rx="23" fill="url(#grid)" stroke="#303343"/>
+<circle cx="945" cy="210" r="255" fill="url(#glow)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="54" y="48" width="178" height="30" rx="15" fill="#1d2030" stroke="#37324d"/>
+<circle cx="72" cy="63" r="4" fill="#bef264"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="86" y="68" fill="#d9dce5" font-size="11" letter-spacing="2">LEODSTAR4 / MX</text>
+<text x="50" y="198" fill="#f3f4f6" font-size="110" font-weight="800" letter-spacing="-7">dstar<tspan fill="#bef264">.</tspan></text>
+<text x="56" y="247" fill="#ede9fe" font-size="28" font-weight="600">Leonardo Rulfo Soto</text>
+<text x="57" y="286" fill="#a7aabc" font-size="16" letter-spacing="2">TECNOLOGÍA / EMPRENDIMIENTO / DISEÑO</text>
+<path d="M56 323H590" stroke="#303343"/>
+<text x="57" y="357" fill="#a7aabc" font-size="13" letter-spacing="1">ITC @ TEC DE MONTERREY</text>
+<text x="345" y="357" fill="#c4b5fd" font-size="13" letter-spacing="1">COFUNDADOR @ BYRIX</text>
+</g>
+<g transform="translate(943 205)">
+<circle r="130" fill="none" stroke="#49405e" stroke-width="1"/>
+<ellipse rx="155" ry="58" fill="none" stroke="#7c6b9e" transform="rotate(-32)"/>
+<circle r="93" fill="none" stroke="#635080" stroke-dasharray="3 12">
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="75s" repeatCount="indefinite"/>
+</circle>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+<circle cx="130" r="7" fill="#bef264"/><circle cx="-130" r="4" fill="#c4b5fd"/></g>
+<g><animateTransform attributeName="transform" type="rotate" values="-7;7;-7" dur="8s" repeatCount="indefinite"/>
+<path d="M0-74 19-22 74 0 21 21 0 74-21 21-74 0-21-21Z" fill="url(#line)"/>
+<path d="M0-47 11-12 47 0 12 12 0 47-12 12-47 0-12-12Z" fill="#0d1117"/></g>
+<text y="181" text-anchor="middle" fill="#9f94bb" font-family="monospace" font-size="11" letter-spacing="4">IDEAS → CREACIÓN</text>
+</g>
+</svg>
