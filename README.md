@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dstar-hero.svg" width="100%" alt="dstar — Leonardo Rulfo Soto. Tecnología, emprendimiento y diseño." />
+<img src="./assets/dstar-hero-clean.svg" width="100%" alt="dstar — Leonardo Rulfo Soto. Tecnología, emprendimiento y diseño." />
 
 <br />
 
