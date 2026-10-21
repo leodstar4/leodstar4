@@ -1,37 +1,13 @@
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="middle">
-      <img src="dstar.png" width="150" height="150" alt="dstar logo"/>
-    </td>
-    <td valign="middle" style="padding-left: 16px;">
-      <h1>Hola, soy Leonardo Rulfo Soto / dstar ⭐ </h1>
-    </td>
-  </tr>
-</table>
+<img src="./assets/dstar-hero-clean.svg" width="100%" alt="dstar — Leonardo Rulfo Soto. Tecnología, emprendimiento y diseño." />
 
-<br/>
+<br />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/leo.dstrr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeonardoRulfoSoto)
+<a href="https://linkedin.com/in/LeonardoRulfoSoto"><img src="https://img.shields.io/badge/LinkedIn-CONECTEMOS-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c4b5fd&amp;labelColor=242035" alt="Conecta conmigo en LinkedIn" /></a>
+<a href="mailto:leorulfosoto@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-HABLEMOS-0d1117?style=for-the-badge&amp;logo=maildotru&amp;logoColor=bef264&amp;labelColor=242035" alt="Escríbeme un correo" /></a>
+<a href="https://instagram.com/leo.dstrr"><img src="https://img.shields.io/badge/Instagram-LEO.DSTRR-0d1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=c4b5fd&amp;labelColor=242035" alt="Sígueme en Instagram" /></a>
+<a href="https://dstar4.party/"><img src="https://img.shields.io/badge/DSTAR-MI_MARCA-0d1117?style=for-the-badge&amp;logoColor=bef264&amp;labelColor=242035" alt="Visita mi marca de ropa dstar" /></a>
 
-</div>
-
----
-
-## Sobre mí 💾
-
-- 💻 Estudiante de Tecnologías computacionales en ITESM
-- 🚀 CoFundador de Byrix
-- 🕶️ Diseñador de una marca de ropa Mexicana
-- 📩 Contacto: **leorulfosoto@hotmail.com**
-
----
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leodstar4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>
 
